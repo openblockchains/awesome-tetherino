@@ -11,6 +11,10 @@ Include the `jquery.debug.js` script after the jquery library. Example:
     
 That's it.
 
+## References
+
+- [Mozilla `window.onerror` Doku](https://developer.mozilla.org/en/DOM/window.onerror)
+
 ## License
 
 The scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
