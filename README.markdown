@@ -7,7 +7,7 @@ Installs a JavaScript error handler (`window.onerror`) and shows reported errors
 Include the `jquery.debug.js` script after the jquery library. Example:
 
     <script src='jquery.min.js'></script>
-    <script src='jquery.debug.js''></script>
+    <script src='jquery.debug.js'></script>
     
 That's it.
 
