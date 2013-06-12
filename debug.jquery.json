@@ -1,0 +1,27 @@
+{
+  "name": "debug",
+  "version": "0.1.0",
+  "title": "jquery.debug.js",
+  "description": "Another JavaScript Error Handler.",
+  "keywords": [
+    "debug",
+    "console",
+    "onerror"
+  ],
+  "author": {
+    "name": "Gerald Bauer",
+    "url": "https://github.com/geraldb"
+  },
+  "licenses": [
+    {
+      "type": "Public Domain",
+      "url": "http://en.wikipedia.org/wiki/Public_domain"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.10"
+  },
+  "homepage": "https://github.com/geraldb/jquery.debug.js",
+  "docs": "https://github.com/geraldb/jquery.debug.js",
+  "download": "http://code.jquery.com/#debug"
+}
