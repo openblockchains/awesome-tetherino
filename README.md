@@ -45,6 +45,8 @@ Upcoming
 
 ### More / Misc Types
 
+- [Types :octocat:](https://github.com/dry-rb/dry-types) - dry-types gem / library - flexible type system with coercions and constraints 
+
 
 
 
