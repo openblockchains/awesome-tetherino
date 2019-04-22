@@ -80,8 +80,22 @@ _Learning from Type Checkers / Signatures / Annotations in Python_
 
 _Ruby with 100 % static types compiled to binaries via LLVM_
 
+> Crystal is statically type checked, so any type errors will be caught early by the compiler rather than fail on runtime. 
+> Moreover, and to keep the language clean, Crystal has built-in type inference, so most type annotations are unneeded.
 
+``` crystal
+def shout(x)
+  # Notice that both Int32 and String respond_to `to_s`
+  x.to_s.upcase
+end
 
+foo = ENV["FOO"]? || 10
+
+typeof(foo)        #=> (Int32 | String)
+typeof(shout(foo)) #=> String
+```
+
+(Source: [Crystal Lang - Type System](https://crystal-lang.org/#type-system))
 
 
 
