@@ -90,7 +90,9 @@ New in Python version 3.5.
 More type checkers / signatures / annotations:
 
 - [mypy - Optional Static Typing for Python](http://mypy-lang.org)
- 
+- [Pyre is a performant type checker for python :octocat:](https://github.com/facebook/pyre-check) by Facebook
+- [Pyright static type checker for python :octocat:](https://github.com/Microsoft/pyright) by Microsoft
+- [Pytype static type analyzer for python :octocat:](https://github.com/google/pytype) by Google
 
 
 
