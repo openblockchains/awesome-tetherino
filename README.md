@@ -99,6 +99,31 @@ typeof(shout(foo)) #=> String
 
 (Source: [Crystal Lang - Type System](https://crystal-lang.org/#type-system))
 
+> All types are non-nilable in Crystal, and nilable variables are represented as a union between the type and nil. 
+> As a consequence, the > compiler will automatically check for null references in compile time,
+> helping prevent the dreadful billion-dollar mistake.
+
+``` crystal
+if rand(2) > 0
+  my_string = "hello world"
+end
+
+puts my_string.upcase
+```
+
+> Running the previous file:
+
+```
+$ crystal hello_world.cr
+Error in hello_world.cr:5: undefined method 'upcase' for Nil (compile-time type is (String | Nil))
+
+puts my_string.upcase
+               ^~~~~~
+```
+
+(Source: [Crystal Lang - Null Reference Checks](https://crystal-lang.org/#null-reference-checks))
+
+
 
 ## Python
 
