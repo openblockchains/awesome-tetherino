@@ -19,7 +19,7 @@ Upcoming
 
 ### Bool
 
-- [Bool Type](https://github.com/typesigs/safebool :octocat:) - safebool gem / library - safe bool / boolean type adds Bool(), to_b, parse_bool / to_bool, bool?, false?, true?, true.is_a?(Bool)==true, false.is_a?(Bool)==true, and more 
+- [Bool Type :octocat:](https://github.com/typesigs/safebool) - safebool gem / library - safe bool / boolean type adds Bool(), to_b, parse_bool / to_bool, bool?, false?, true?, true.is_a?(Bool)==true, false.is_a?(Bool)==true, and more 
 
 ### Enums / Flags
 
@@ -32,9 +32,15 @@ Upcoming
 
 ### Records
 
+- [Record Type :octocat:](https://github.com/typesigs/records) - records gem / library - frozen / immutable structs with copy on updates
+
+
 ### Structs
 
+
 ### (Algebraic) Data (Union) Types with Variants
+
+- [Data Type :octocat:](https://github.com/typesigs/safedata) - safedata gem / library - safe (algebraic) union data types with (enumerated) variants
 
 
 ### More / Misc Types
@@ -44,18 +50,37 @@ Upcoming
 
 ## Ruby 3  
 
-_Ruby 3 Expected for December 2020 - Planned Next Version After Ruby 2.7 Expected for December 2019_
+_Ruby 3 Expected for December 2020 (Hopefully) - Planned Next Version After Ruby 2.7 Expected for December 2019_
 
 #### Static Analysis
 
 Ruby 3 static analysis will have four items:
 
-1. Type signature format 
+1. Type signature format (`.rbi`) 
 2. Level-1 type checking tool 
 3. Type signature profiling / prototyping tool 
 4. Level-2 type checking tools
 
+![](i/ruby3-static-analysis.png)
+
+![](i/ruby3-static-analysis-1.png)
+
 (Source: [RubyKaigi 2019 Progress Report on Ruby 3 Talk Slides](https://docs.google.com/presentation/d/1z_5JT0-MJySGn6UGrtdafK1oj9kGSO5sGlTtEQJz0JU/view#slide=id.g57cf166414_14_5))
+
+
+## Python
+
+_Learning from Type Checkers / Signatures / Annotations in Python_
+
+
+
+
+
+## Crystal
+
+_Ruby with 100 % static types compiled to binaries via LLVM_
+
+
 
 
 
