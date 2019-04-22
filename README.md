@@ -1,0 +1,2 @@
+# Awesome Types
+
