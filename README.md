@@ -41,9 +41,10 @@ Upcoming
 ### Structs
 
 
-### Typed Arrays / Typed Maps
+### Typed Arrays / Typed Hashes
 
-- [Typed Arrays / Typed Maps :octocat:](https://github.com/s6ruby/safestruct) - safestruct gem / library - safe data structures (array, hash, struct) - say goodbye to null / nil (and maybe) - say hello to zero
+- [Typed Arrays / Typed Hashes :octocat:](https://github.com/s6ruby/safestruct) - safestruct gem / library - safe data structures (array, hash, struct) - say goodbye to null / nil (and maybe) - say hello to zero
+
 
 ### (Algebraic) Data (Union) Types with Variants
 
