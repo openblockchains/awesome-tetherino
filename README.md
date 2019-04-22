@@ -75,27 +75,6 @@ Ruby 3 static analysis will have four items:
 (Source: [RubyKaigi 2019 Progress Report on Ruby 3 Talk Slides](https://docs.google.com/presentation/d/1z_5JT0-MJySGn6UGrtdafK1oj9kGSO5sGlTtEQJz0JU/view#slide=id.g57cf166414_14_5))
 
 
-## Python
-
-_Learning from Type Checkers / Signatures / Annotations in Python_
-
-New in Python version 3.5.
-
-- [typing — Support for type hints](https://docs.python.org/3/library/typing.html)
-
-> The typing module supports type hints as specified by PEP 484 and PEP 526.
-> The most fundamental support consists of the types `Any`, `Union`, `Tuple`, `Callable`, `TypeVar`, and `Generic`. 
-> For full specification please see PEP 484. For a simplified introduction to type hints see PEP 483.
-
-More type checkers / signatures / annotations:
-
-- [mypy - Optional Static Typing for Python](http://mypy-lang.org)
-- [Pyre is a performant type checker for python :octocat:](https://github.com/facebook/pyre-check) by Facebook
-- [Pyright static type checker for python :octocat:](https://github.com/Microsoft/pyright) by Microsoft
-- [Pytype static type analyzer for python :octocat:](https://github.com/google/pytype) by Google
-
-
-
 ## Crystal
 
 _Ruby with 100 % static types compiled to binaries via LLVM_
@@ -116,6 +95,27 @@ typeof(shout(foo)) #=> String
 ```
 
 (Source: [Crystal Lang - Type System](https://crystal-lang.org/#type-system))
+
+
+## Python
+
+_Learning from Type Checkers / Signatures / Annotations in Python_
+
+New in Python version 3.5.
+
+- [typing — Support for type hints](https://docs.python.org/3/library/typing.html)
+
+> The typing module supports type hints as specified by PEP 484 and PEP 526.
+> The most fundamental support consists of the types `Any`, `Union`, `Tuple`, `Callable`, `TypeVar`, and `Generic`. 
+> For full specification please see PEP 484. For a simplified introduction to type hints see PEP 483.
+
+More type checkers / signatures / annotations:
+
+- [mypy - Optional Static Typing for Python](http://mypy-lang.org)
+- [Pyre is a performant type checker for python :octocat:](https://github.com/facebook/pyre-check) by Facebook
+- [Pyright static type checker for python :octocat:](https://github.com/Microsoft/pyright) by Microsoft
+- [Pytype static type analyzer for python :octocat:](https://github.com/google/pytype) by Google
+
 
 
 
