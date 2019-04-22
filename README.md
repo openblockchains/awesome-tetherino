@@ -9,6 +9,7 @@
 - [Typedocs :octocat:](https://github.com/todesking/typedocs), [:gem:](https://rubygems.org/gems/typedocs) - method type annotations for Ruby
 - [Typecheck :octocat:](https://github.com/plexus/typecheck), [:gem:](https://rubygems.org/gems/typecheck) - type checking for Ruby methods 
 - [Ruby Type Checker (Rtc) :octocat:](https://github.com/plum-umd/rtc)  
+- [Steep - Gradual Typing for Ruby :octocat:](https://github.com/soutaro/steep) 
 
 Upcoming
 
@@ -78,7 +79,18 @@ Ruby 3 static analysis will have four items:
 
 _Learning from Type Checkers / Signatures / Annotations in Python_
 
+New in Python version 3.5.
 
+- [typing — Support for type hints](https://docs.python.org/3/library/typing.html)
+
+> The typing module supports type hints as specified by PEP 484 and PEP 526.
+> The most fundamental support consists of the types `Any`, `Union`, `Tuple`, `Callable`, `TypeVar`, and `Generic`. 
+> For full specification please see PEP 484. For a simplified introduction to type hints see PEP 483.
+
+More type checkers / signatures / annotations:
+
+- [mypy - Optional Static Typing for Python](http://mypy-lang.org)
+ 
 
 
 
