@@ -78,6 +78,11 @@ Ruby 3 static analysis will have four items:
 (Source: [RubyKaigi 2019 Progress Report on Ruby 3 Talk Slides](https://docs.google.com/presentation/d/1z_5JT0-MJySGn6UGrtdafK1oj9kGSO5sGlTtEQJz0JU/view#slide=id.g57cf166414_14_5))
 
 
+## Articles
+
+- [Type Checking in Ruby - Check Yo Self Before You Wreck Yo Self](https://blog.appsignal.com/2019/08/27/ruby-magic-type-checking-in-ruby.html) by Michael Kohl, Aug 2019
+
+
 ## Crystal
 
 _Ruby with 100 % static types compiled to binaries via LLVM_
@@ -145,6 +150,10 @@ More type checkers / signatures / annotations:
 - [Pytype static type analyzer for python :octocat:](https://github.com/google/pytype) by Google
 
 
+
+## More Articles
+
+- [What To Know Before Debating Type Systems](https://blog.steveklabnik.com/posts/2010-07-17-what-to-know-before-debating-type-systems) by Chris Smith, 2010
 
 
 ## Meta
