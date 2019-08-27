@@ -11,8 +11,12 @@
 - [Ruby Type Checker (Rtc) :octocat:](https://github.com/plum-umd/rtc)  
 - [Steep - Gradual Typing for Ruby :octocat:](https://github.com/soutaro/steep) 
 - [RDL - Types, type checking, and contracts for Ruby :octocat:](https://github.com/plum-umd/rdl) - a lightweight system for adding types, type checking, and contracts to Ruby. In RDL, types can be used to decorate methods
-- [Sorbet](https://sorbet.org), [:ocotocat:](https://github.com/sorbet/sorbet), [:gem:](https://rubygems.org/gems/sorbet) - a ruby type checker from Stripe; [open sourced in summer 2019](https://sorbet.run/talks/RubyKaigi2019/#/45)
+- [Sorbet](https://sorbet.org), [:octocat:](https://github.com/sorbet/sorbet), [:gem:](https://rubygems.org/gems/sorbet) - a ruby type checker from Stripe; [open sourced in summer 2019](https://sorbet.org/blog/2019/06/20/open-sourcing-sorbet)
 
+
+## Articles
+
+- [Type Checking in Ruby - Check Yo Self Before You Wreck Yo Self](https://blog.appsignal.com/2019/08/27/ruby-magic-type-checking-in-ruby.html) by Michael Kohl, Aug 2019
 
 
 ## Types
@@ -53,8 +57,6 @@
 - [Types :octocat:](https://github.com/dry-rb/dry-types) - dry-types gem / library - flexible type system with coercions and constraints 
 
 
-
-
 ## Ruby 3  
 
 _Ruby 3 Expected for December 2020 (Hopefully) - Planned Next Version After Ruby 2.7 Expected for December 2019_
@@ -73,11 +75,6 @@ Ruby 3 static analysis will have four items:
 ![](i/ruby3-static-analysis-1.png)
 
 (Source: [RubyKaigi 2019 Progress Report on Ruby 3 Talk Slides](https://docs.google.com/presentation/d/1z_5JT0-MJySGn6UGrtdafK1oj9kGSO5sGlTtEQJz0JU/view#slide=id.g57cf166414_14_5))
-
-
-## Articles
-
-- [Type Checking in Ruby - Check Yo Self Before You Wreck Yo Self](https://blog.appsignal.com/2019/08/27/ruby-magic-type-checking-in-ruby.html) by Michael Kohl, Aug 2019
 
 
 ## Crystal
