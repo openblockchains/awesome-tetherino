@@ -6,8 +6,15 @@
 
 **Biggies**
 
+- [Official Ruby::Signature :octocat:](https://github.com/ruby/ruby-signature) - a parser, the syntax, the semantics and class definition interpreter for the Ruby Signature language (`.rbi`) files
 - [Steep - Gradual Typing for Ruby :octocat:](https://github.com/soutaro/steep), [:gem:](https://rubygems.org/gems/steep) 
 - [Sorbet](https://sorbet.org), [:octocat:](https://github.com/sorbet/sorbet), [:gem:](https://rubygems.org/gems/sorbet) - a ruby type checker from Stripe; [open sourced in summer 2019](https://sorbet.org/blog/2019/06/20/open-sourcing-sorbet)
+  - More Sorbet Projects:
+    - [sorbet-typed :octocat:](https://github.com/sorbet/sorbet-typed) - a central repository for sharing type definitions for ruby gems
+    - [sorbet-rails :octocat:](https://github.com/chanzuckerberg/sorbet-rails) - a set of tools to make sorbet work with rails seamlessly
+    - [Sord :octocat:](https://github.com/AaronC81/sord) - a tool to generate Ruby Signature language (`.rbi`) files from YARD documentation
+    - [Parlour :octocat:](https://github.com/AaronC81/parlour) - a versatile Ruby Signature language (`.rbi`) generator and plugin system
+    - [sorbet-progress :octocat:](https://github.com/jaredbeck/sorbet-progress) - measure your progress as you adopt sorbet, stay motivated!
 
 **More**
 
