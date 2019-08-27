@@ -11,11 +11,8 @@
 - [Ruby Type Checker (Rtc) :octocat:](https://github.com/plum-umd/rtc)  
 - [Steep - Gradual Typing for Ruby :octocat:](https://github.com/soutaro/steep) 
 - [RDL - Types, type checking, and contracts for Ruby :octocat:](https://github.com/plum-umd/rdl) - a lightweight system for adding types, type checking, and contracts to Ruby. In RDL, types can be used to decorate methods
+- [Sorbet](https://sorbet.org) [:ocotocat:](https://github.com/sorbet/sorbet) [:gem:](https://rubygems.org/gems/sorbet) - a ruby type checker from Stripe; [open sourced in summer 2019(https://sorbet.run/talks/RubyKaigi2019/#/45)
 
-
-Upcoming
-
-- [Sorbet](https://sorbet.org) [:gem:](https://rubygems.org/gems/sorbet) - a ruby type checker from Stripe; [not yet open source but eventually promised for summer 2019 after more internal use](https://sorbet.run/talks/RubyKaigi2019/#/45) 
 
 
 ## Types
