@@ -8,7 +8,7 @@
 
 - [Official Ruby::Signature :octocat:](https://github.com/ruby/ruby-signature) - official home of the Ruby Type Signature language (`.rbi`); incl. parser, the syntax and the semantics for type signatures (typesigs)
   - [Ruby Type Signature Language (RBI) Syntax Documentation Cheat Sheet](https://github.com/ruby/ruby-signature/blob/master/doc/syntax.md)
-- [Steep - Gradual Typing for Ruby :octocat:](https://github.com/soutaro/steep), [:gem:](https://rubygems.org/gems/steep) 
+- [Steep :octocat:](https://github.com/soutaro/steep), [:gem:](https://rubygems.org/gems/steep) - gradual typing for ruby  
 - [Sorbet](https://sorbet.org), [:octocat:](https://github.com/sorbet/sorbet), [:gem:](https://rubygems.org/gems/sorbet) - a ruby type checker from Stripe; [open sourced in summer 2019](https://sorbet.org/blog/2019/06/20/open-sourcing-sorbet)
   - More Sorbet Projects:
     - [sorbet-typed :octocat:](https://github.com/sorbet/sorbet-typed) - a central repository for sharing type definitions for ruby gems
