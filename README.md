@@ -281,6 +281,7 @@ by Trolly McTrollface, February 15, 2021
 > go the way of the dodo.
 >
 > [...]
+>
 > $USDT lifecycle
 >
 > Tether's stablecoin $USDT is mainly used as a tool for offshore funding.
@@ -301,7 +302,7 @@ by Trolly McTrollface, February 15, 2021
 >
 > [...]
 
-[Full "$USDT's Endgame and Life After Tether" article »](http://www.tr0lly.com/bitcoin/usdts-endgame-and-life-after-tether/)
+["$USDT's Endgame and Life After Tether" - read the full article »](http://www.tr0lly.com/bitcoin/usdts-endgame-and-life-after-tether/)
 
 
 
