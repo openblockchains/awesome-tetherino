@@ -1,16 +1,6 @@
 # Awesome Tetherino - 60 000+ Million $USDT Crypto "Stable" Coin Printed Out of Thin Air and Offically Backed by Commercial Paper (2-Ply Rated Soft - Yes, Trust Us, Don't Verify) - Inside the Tether Ponzi Scheme - A Bubble for the History Books and Fraud on the Scale of Madoff
 
 
-
-> Tether is "too big to fail" - the entire crypto industry utterly depends on
-> it. We just topped ~twenty~~ sixty billion alleged dollars' worth of tethers ($USDT).
-> If you think this is sustainable, you're a fool.
->
->  -- David Gerard, Blockchain Journalist & Historian
-
-
-§
-
 > We have not entered "Post Tether" yet. Tether is still furiously printing
 > digital ($USDT) bucks. Who believes Bitcoin's price is organic?
 > It's not - it's a Ponzi, and Tether is its Little Helper.
@@ -18,7 +8,7 @@
 > Austrian Maximalist comments:
 >
 >> Bitcoin is not a ponzi. It is a monetary network, first of its kind.
->> Currently valued at 1 000 billion dollars. What am I missing?
+>> Currently valued at thousand billion dollars. What am I missing?
 >
 > §
 >
@@ -27,6 +17,14 @@
 > out, that is.
 >
 > -- Amy Castor, Blockchain & Financial Journalist
+
+§
+
+> Tether is "too big to fail" - the entire crypto industry utterly depends on
+> it. We just topped ~twenty~ sixty billion alleged dollars' worth of tethers ($USDT).
+> If you think this is sustainable, you're a fool.
+>
+>  -- David Gerard, Blockchain Journalist & Historian
 
 §
 
@@ -78,7 +76,103 @@ Tetherino once stayed behind in the shadows, watching my big Tether step-brother
 
 
 
+## Q&A with Paolino Ardoino, the CTO of Tetherino
 
+
+**Q: Please tell me about Tetherino's technology.**
+
+**Paolino Ardoino:**
+Well from a purely technological perspective, Tetherino is absolute shit. I launched it in under five minutes by clicking on the first result when you google "launch your crypto token in under five minutes".
+
+The only purpose of technology in crypto is to add just enough layers of complexity to every scam so scammers can get off the hook. This is what we're shooting for.
+
+**Q: Very interesting. What else can you tell me about your token?**
+
+**Paolino Ardoino:**
+It's very important for people to understand that there's nothing
+behind our token. No backing, no reserves, no commercial toilet paper, no assurances, no white paper. Fundamentally, the value of a tetherino is zero.
+
+**Q: Amazing. I hear you already have a logo and even a website. What are your next steps?**
+
+**Paolino Ardoino:**
+Yes we're very proud of our progress so far. Our next steps are to communicate about our token on social media from anonymous accounts and hope people start buying our illiquid token with other, slightly more liquid tokens, which we'll try and cash out for real money.
+
+**Q: So you're just following the basic roadmap of all coins and tokens in crypto?**
+
+**Paolino Ardoino:**
+On the surface, yes. Nothing special about us, no use case, no vision, we don't understand anything about finance have zero willingness to learn.
+
+**Q: There is literally no barrier to entry in creating a new token. What makes you think you'll be successful, given the fierce competition from millions of other crypto scammers out there?**
+
+**Paolino Ardoino:**
+Crypto has gone through a paradigm shift over the last few months. Everybody understands that the technology is shit, and that it's all about money laundering and memes.
+
+Most of the existing projects bear the burden of their image. Their teams spent so long bullshitting about their technology and network effect that they can no longer pivot to memes without looking stupid. So as crypto has moved from pretend fintech to the entertainment business, all the other coins and tokens have lost their relevance.
+
+Tetherino doesn't have this burden of legacy. We are giving the investors what they want - pure memes, military grade entertainment and shitposting. Our bagholders recognize and appreciate that.
+
+
+**Q: But what about projects like Ripple and Chainlink? Surely their investor base has been built around memes and not technology as well?**
+
+**Paolino Ardoino:**
+They have been the pioneers in this area, yes, but they had to build their meme framework from scratch, which took a lot of time and effort, and now they're stuck with an outdated meme infrastructure that's a nightmare to maintain.
+
+Tetherino on the other hand, can take advantage of existing frameworks of comedy gold around tokens like $USDT and $USDC. We can build on top of this existing meme infrastructure, and roll out our next generation memeing which will make Tetherino a success.
+
+**Q: Aren't you afraid that by being so straightforward and open about your plans, people won't buy your tokens?**
+
+**Paolino Ardoino:**
+On the contrary. People are fed up with all the lies and scams in crypto. They want revenge, they want closure. We give them that. By buying tetherinos, you're not simply betting that you'll be able to offload your bags on the next sucker at a higher price. You're buying entertainment, you're rewarding all the people who are working very hard to make fun of the scammers and the crooks. Join the revolution, brother! Long tetherinos, short the crooks!
+
+
+ §§§
+
+
+Less than 12 hours after our first Q&A was published, Paolino's Twitter account was suspended by Twitter without any warning or explanation. It's obvious that Tetherino, the young and ambitious project that aims at revolutionising crypto by deploying its proprietary next-gen memeing framework, is seen as a threat by the crypto establishment. Here's an emergency update of the situation, as it happens.
+
+
+**Q: Less that an hour ago, I learned that your account was being censored. It looks like vested interests are trying to kill Tetherino in the egg.**
+
+**Paolino Ardoino:**
+Absolutely. Thank you so much for doing this second interview under such short notice. Time is of the essence here. Crypto insiders must have learned of our secret partnership project with a toilet paper manufacturer. We are about to achieve a groundbreaking revolution in the industry.
+
+**Q: Unbelievable. How do you think they've learned about this partnership?**
+
+**Paolino Ardoino:**
+I tweeted about it a couple of hours ago.
+
+**Q: They must have spies everywhere. What's the project about?**
+
+**Paolino Ardoino:**
+We will unveil a feature on our website that will allow people to use tetherinos to buy double ply, extra soft, A-2 rated commercial toilet paper on our website. This will put us ahead of virtually 100% of the competition, by giving an actual, real world use case to tetherinos. No wonder the crypto establishment feels threatened.
+
+**Q: I'm at loss for words. How did you manage to come up with such a new paradigm?**
+
+**Paolino Ardoino:** Well we were thinking that you can't really do anything with tokens other than buying other tokens. Then we remembered the Bitcoin pizza, how it became a killer meme for Bitcoiners, and decided to do the same for tetherinos. It made absolute sense, especially as you need toilet paper after pizza.
+
+**Q: Aren’t you fearing for your life right now?**
+
+**Paolino Ardoino:**
+Absolutely. To think that people who supposedly manage tens of billions of dollars, in reality spend their days spying on Twitter parody accounts with 50 followers truly sends chills down my spine. If they took their time to file a complaint, putting aside all the super important stuff that they undoubtedly need to take care of, what else can they do?
+
+**Q: Will you quit?**
+
+**Paolino Ardoino:** I thought about it. But then, I realised this cowardly attack is simply proof that the competition is afraid. They are losing the innovation race. Unable to keep up with our next-gen memeing technology, they are resorting to dirty tricks. In doing so, they have already put on their LOSER hats.
+
+**Q: You are incredibly brave, Paolino. Do you want to add something?**
+
+**Paolino Ardoino:**
+Yes. I want our investors to know that I love them, that I feel all their support, and that they'll soon be able to buy double ply, extra soft, A-2 rated commercial toilet paper rolls for 1,000,000,000 tetherinos apiece, with international delivery, conditions might apply. The price will be revised downwards as tetherinos moon, because, as everyone knows, our tokens are deflationary.
+
+
+**You're truly doing God’s work, Paolino. God speed!**
+
+
+<!--
+  sources:
+  http://www.tr0lly.com/tetherino/an-interview-with-paolino-ardoino-the-cto-of-tetherino/
+  http://www.tr0lly.com/tetherino/emergency-interview-with-paolino-ardoino-cto-of-tetherino/
+  -->
 
 
 
@@ -91,7 +185,6 @@ Tetherino once stayed behind in the shadows, watching my big Tether step-brother
 >  I'm really proud of my piece "A day in the life of Stuart Hoegner, General Counsel for Tether",
 > whose title is a reference to the book "One Day in the Life of Ivan Denisovich", by Aleksandr Solzhenitsyn,
 > a vocal critic of the USSR who did 8 years in a Siberian Gulag for having the audacity of writing stuff.
->
 > [...]
 > I think we live in meme world where the most efficient way
 > to fight evil is to make fun of it in a way that makes
@@ -104,7 +197,7 @@ Tetherino once stayed behind in the shadows, watching my big Tether step-brother
 -->
 
 This is the satirical post that Trolly McTrollface wrote on his blog.
-Feel free to put a copy up as well.
+Feel free to put a copy up.
 Here are others: [[David Gerard](https://davidgerard.co.uk/blockchain/2021/05/24/rehost-tr0lly-a-day-in-the-life-of-stuart-hoegner-general-counsel-for-tether/); [Amy Castor](https://amycastor.com/2021/05/24/rehost-a-day-in-the-life-of-stuart-hoegner-general-counsel-for-tether/); [write.as](https://write.as/mq17sa8ebz9bx.md)]
 
 May 18, 2021
@@ -208,7 +301,7 @@ by Trolly McTrollface, February 15, 2021
 >
 > [...]
 
-[Full article »](http://www.tr0lly.com/bitcoin/usdts-endgame-and-life-after-tether/)
+[Full "$USDT's Endgame and Life After Tether" article »](http://www.tr0lly.com/bitcoin/usdts-endgame-and-life-after-tether/)
 
 
 
