@@ -1,167 +1,216 @@
+# Awesome Tetherino - 60 000+ Million $USDT Crypto "Stable" Coin Printed Out of Thin Air and Offically Backed by Commercial Paper (2-Ply Rated Soft - Yes, Trust Us, Don't Verify) - Inside the Tether Ponzi Scheme - A Bubble for the History Books and Fraud on the Scale of Madoff
 
-# Awesome Types & Type Signatures / Annotations for Ruby
 
 
-## Type Signatures / Annotations
+> Tether is "too big to fail" - the entire crypto industry utterly depends on
+> it. We just topped ~twenty~~ sixty billion alleged dollars' worth of tethers ($USDT).
+> If you think this is sustainable, you're a fool.
+>
+>  -- David Gerard, Blockchain Journalist & Historian
 
-**Biggies**
 
-- [Official Ruby::Signature :octocat:](https://github.com/ruby/ruby-signature) - official home of the Ruby Type Signature language (`.rbi`); incl. parser, the syntax and the semantics for type signatures (typesigs)
-  - [Ruby Type Signature Language (RBI) Syntax Documentation Cheat Sheet](https://github.com/ruby/ruby-signature/blob/master/doc/syntax.md)
-- [Steep :octocat:](https://github.com/soutaro/steep), [:gem:](https://rubygems.org/gems/steep) - gradual typing for ruby  
-- [Sorbet](https://sorbet.org), [:octocat:](https://github.com/sorbet/sorbet), [:gem:](https://rubygems.org/gems/sorbet) - a ruby type checker from Stripe; [open sourced in summer 2019](https://sorbet.org/blog/2019/06/20/open-sourcing-sorbet)
-  - More Sorbet Projects:
-    - [sorbet-typed :octocat:](https://github.com/sorbet/sorbet-typed) - a central repository for sharing type definitions for ruby gems
-    - [sorbet-rails :octocat:](https://github.com/chanzuckerberg/sorbet-rails) - a set of tools to make sorbet work with rails seamlessly
-    - [Sord :octocat:](https://github.com/AaronC81/sord) - a tool to generate Ruby Signature language (`.rbi`) files from YARD documentation
-    - [Parlour :octocat:](https://github.com/AaronC81/parlour) - a versatile Ruby Signature language (`.rbi`) generator and plugin system
-    - [sorbet-progress :octocat:](https://github.com/jaredbeck/sorbet-progress) - measure your progress as you adopt sorbet, stay motivated!
+§
 
-**More**
+> We have not entered "Post Tether" yet. Tether is still furiously printing
+> digital ($USDT) bucks. Who believes Bitcoin's price is organic?
+> It's not - it's a Ponzi, and Tether is its Little Helper.
+>
+> Austrian Maximalist comments:
+>
+>> Bitcoin is not a ponzi. It is a monetary network, first of its kind.
+>> Currently valued at 1 000 billion dollars. What am I missing?
+>
+> §
+>
+> If you can print billions and billions in fake money, you can make the
+> price of Bitcoin whatever you want - until too many people try and cash
+> out, that is.
+>
+> -- Amy Castor, Blockchain & Financial Journalist
 
-- [Contracts for Ruby (contracts.ruby) :octocat:](https://github.com/egonSchiele/contracts.ruby), [:gem:](https://rubygems.org/gems/contracts) - a contract is one line of code that you write above a method definition; it validates the arguments to the method, and validates the return value of the method
-- [Rubype (Ruby+Type) :octocat:](https://github.com/gogotanaka/Rubype), [:gem:](https://rubygems.org/gems/rubype) - gradual type checking for Ruby
-- [Typedocs :octocat:](https://github.com/todesking/typedocs), [:gem:](https://rubygems.org/gems/typedocs) - method type annotations for Ruby
-- [Typecheck :octocat:](https://github.com/plexus/typecheck), [:gem:](https://rubygems.org/gems/typecheck) - type checking for Ruby methods 
-- [Ruby Type Checker (Rtc) :octocat:](https://github.com/plum-umd/rtc)  
-- [RDL - Types, type checking, and contracts for Ruby :octocat:](https://github.com/plum-umd/rdl) - a lightweight system for adding types, type checking, and contracts to Ruby. In RDL, types can be used to decorate methods
+§
 
+> Congrats on writing about Bitcoin's price without mentioning Tether ($USDT).
+> It's like writing about bond yields without mentioning inflation and the Fed.
+>
+> §
+>
+> Now you have Tether and $USDT. 60+ billion almost dollars governed by a
+> five-page disclaimer that $USDTs are backed by whatever Tether wants, at
+> whatever valuations Tether finds convenient. No credit rating, no bank,
+> no auditor, no offices, no CEO and CFO, no guarantee whatsoever.
+>
+> §
+>
+> The USDT/USD peg is founded on the premise that people won't try
+> to cash out en masse. As long as they don't, USDT printing can continue.
+>
+> §
+>
+> Why should Tether spend all its money (it is theirs, after all -
+> $USDT holders don't have a legal claim on Tether's reserves)
+> trying to save the crypto markets, when they collapse?
+> How many years would it take them to rebuild their war chest,
+> assuming that crypto bounces back?
+> Why not party on a yacht in Monaco instead?
+>
+>  -- Trolly McTrollface, Bitcoin Greater Fool Court Jester
 
 
-## Articles
 
-- [Type Checking in Ruby - Check Yo Self Before You Wreck Yo Self](https://blog.appsignal.com/2019/08/27/ruby-magic-type-checking-in-ruby.html) by Michael Kohl, Aug 2019
 
 
-## Types
+## Tetherino HQ
 
-### Bool
 
-- [Bool Type :octocat:](https://github.com/typesigs/safebool) - safebool gem / library - safe bool / boolean type adds Bool(), to_b, parse_bool / to_bool, bool?, false?, true?, true.is_a?(Bool)==true, false.is_a?(Bool)==true, and more 
+Website: [**tetherino.io**](https://tetherino.io/), Twitter: [**tetherino**](https://twitter.com/tetherino)
 
-### Enums / Flags
+Tetherino once stayed behind in the shadows, watching my big Tether step-brother print and print but no more! I'm ready to take over the family business and print even more than my famous brother! Pump the markets!
 
-- [Enum / Flag Types :octocat:](https://github.com/typesigs/enums) - enums library / gem - safe enum / enumeration types - a set of symbolic keys bound to unique integer numbers (incl. bit flags option)
 
-### Bytes / Buffer / (Frozen) String
+**Whitepaper**
 
-- [Bytes / Buffer Types :octocat:](https://github.com/typesigs/bytes)
+![](i/tetherino-whitepaper-i.png)
 
+![](i/tetherino-whitepaper-ii.png)
 
-### Records
+![](i/tetherino-whitepaper-iii.png)
 
-- [Record Type :octocat:](https://github.com/typesigs/records) - records gem / library - frozen / immutable structs with copy on updates
 
 
-### Structs
 
 
-### Typed Arrays / Typed Hashes
 
-- [Typed Arrays / Typed Hashes :octocat:](https://github.com/s6ruby/safestruct) - safestruct gem / library - safe data structures (array, hash, struct) - say goodbye to null / nil (and maybe) - say hello to zero
 
+## What If?  A day in the life of Stuart Hoegner, General Counsel for Tether
 
-### (Algebraic) Data (Union) Types with Variants
+>  It's amazing the time and resources Tether spends on hunting down and harassing critics.
+>  [...]
+>  I will take the piece down, even though it's obviously satire.
+>  [...]
+>  I'm really proud of my piece "A day in the life of Stuart Hoegner, General Counsel for Tether",
+> whose title is a reference to the book "One Day in the Life of Ivan Denisovich", by Aleksandr Solzhenitsyn,
+> a vocal critic of the USSR who did 8 years in a Siberian Gulag for having the audacity of writing stuff.
+>
+> [...]
+> I think we live in meme world where the most efficient way
+> to fight evil is to make fun of it in a way that makes
+> it lose its credibility.
+>
+> -- Trolly McTrollface, Bitcoin Greater Fool Court Jester
 
-- [Data Type :octocat:](https://github.com/typesigs/safedata) - safedata gem / library - safe (algebraic) union data types with (enumerated) variants
+<!--
+ https://twitter.com/Tr0llyTr0llFace/status/1396729914615910406
+-->
 
+This is the satirical post that Trolly McTrollface wrote on his blog.
+Feel free to put a copy up as well.
+Here are others: [[David Gerard](https://davidgerard.co.uk/blockchain/2021/05/24/rehost-tr0lly-a-day-in-the-life-of-stuart-hoegner-general-counsel-for-tether/); [Amy Castor](https://amycastor.com/2021/05/24/rehost-a-day-in-the-life-of-stuart-hoegner-general-counsel-for-tether/); [write.as](https://write.as/mq17sa8ebz9bx.md)]
 
-### More / Misc Types
+May 18, 2021
 
-- [Types :octocat:](https://github.com/dry-rb/dry-types) - dry-types gem / library - flexible type system with coercions and constraints 
+In light of an anonymous Medium post titled "Tether is Setting a New Standard for Transparency - And Responding to Criticism That is Untethered From Facts", written by someone posturing as Stuart Hoegner, the GC for Tether, in a something that looks like pointless attempt to make Tether look like a legitimate business, the truth needed to be told. So here it is, in all its unvarnished glory. A tale of how it all happened.
 
+The morning sun was gently piercing through the mist glowing around the harbour. Suart Hoegner was standing by the window, his empty stare aimlessly fixated on the horizon.
 
-## Ruby 3  
+The coffee cup was sitting on the window sill, untouched, its contents getting cold. Stu was feeling much like that cup, isolated, forgotten, the fire inside of him running out.
 
-_Ruby 3 Expected for December 2020 (Hopefully) - Planned Next Version After Ruby 2.7 Expected for December 2019_
+What had happened to his dreams? Where was his ambition gone? How did he ever end up in this dead end of a situation, catering to small time Italian crooks, lending them his name, his expertise, his reputation, his life?
 
-#### Static Analysis
+The people at Deltec would be at the office an hour from now. The Bahamas was in the exact same time zone as Prince Edward County, but what looked like a huge convenience in 2017, when Stu had started working out the relationship, felt like the shackles of a prison four years later. At least Paolo Ardoino was commuting between Monaco and London, leaving five hours of alone time to Stu in the evening when he could try and recollect. Giancarlo Devasini, the international man of mystery and Stu's boss, was popping up here and there sporadically around the world, mostly leaving Stuart alone. But Deltec! These guys were non-stop. Amateurish, overzealous, excited and afraid at the same time, they’d call him a dozen times over the span of a single hour for utterly mundane shit like a weekend wire. "We can't do this, we can't do it like that, the ISIN code you provided for the bond you say you have on your books doesn't exist, this commercial paper isn't rated..."
 
-Ruby 3 static analysis will have four items:
+Stuart closed his eyes, and let out a deep sigh.
 
-1. Type signature format (`.rbi`) 
-2. Level-1 type checking tool 
-3. Type signature profiling / prototyping tool 
-4. Level-2 type checking tools
+He kind of knew what he was signing up for, when he shook hands with Giancarlo and Paolo, that fateful evening at a gaming conference in Toronto.
 
-![](i/ruby3-static-analysis.png)
+When you're a regulated financial institution, you're dealing with the cream of the crop, you have to prove that you're trustworthy and beyond reproach to the most sophisticated players. You're in the limelight, you brush elbows with legends, you dine with intellectuals and people who will leave a mark in this world.
 
-![](i/ruby3-static-analysis-1.png)
+But Stu knew he was never going to be up to that level. Stuck in a tiny practice catering to the gaming industry, he was doomed to a life of absolute insignificance and quiet desperation. So he jumped ship, to the gutter.
 
-(Source: [RubyKaigi 2019 Progress Report on Ruby 3 Talk Slides](https://docs.google.com/presentation/d/1z_5JT0-MJySGn6UGrtdafK1oj9kGSO5sGlTtEQJz0JU/view#slide=id.g57cf166414_14_5))
+When you're an unregulated bucket shop scalping muppets, posturing as a revolutionary blockchain fintech something, you never see the limelight. Your job isn't to compete with the top 0.01%, it’s to baffle and bamboozle the bottom 50%. Instead of having fifty accounts worth $100,000,000 each, you'll have to deal with a hundred million accounts worth $50 each. You'll become a joke among your former colleagues, nobody will write to you for a recommendation, your own mom will stop asking how the job's going.
 
+A tear rolled down Stuart's cheek.
 
-## Crystal
+He was stuck playing Laurel and Hardy with Paolo, to keep the appearance of legitimacy and technological innovation for Tether, in the eyes of a million suckers who were bagholding their shittoken, USDT. Stu's job was to make sure Tether's employees and accomplices would never say or write something that might incriminate his employer, always keeping a veneer of plausible deniability in the eyes of the law, all the while appearing strong and legitimate in the eyes of the illiterate cannon fodder.
 
-_Ruby with 100 % static types compiled to binaries via LLVM_
+Twitter was a perfect tool. At the head of an army of anonymous bots, Stu could post bullshit memes and retweet crazy-ass conspiracy theories that made Tether look good. Unable to provide a real audit or any report that would make sense in the real world, he would come up with one worthless attestation after another, drafting legally non-binding opinion letters to be signed by obscure accounting shops.
 
-> Crystal is statically type checked, so any type errors will be caught early by the compiler rather than fail on runtime. 
-> Moreover, and to keep the language clean, Crystal has built-in type inference, so most type annotations are unneeded.
+Cope. Cope. Cope.
 
-``` crystal
-def shout(x)
-  # Notice that both Int32 and String respond_to `to_s`
-  x.to_s.upcase
-end
 
-foo = ENV["FOO"]? || 10
+And then one day, his boss came up with this "Tether leaks" idea, to discredit Tether critics, who could see through the nail-polish-thin Potemkin façade that Stu had set up, and deemed it worth their time to warn others. Giancarlo instructed Stuart and Paolo to write a series of supposedly leaked emails from Deltec that would be revealing of Tether's fraud, and post them on Twitter, for critics to bite on. They could then reveal that the emails were fake, and that anyone who believed in them was an idiot unworthy of being attention to.
 
-typeof(foo)        #=> (Int32 | String)
-typeof(shout(foo)) #=> String
-```
+This was the straw that broke the camel's back. Stu was stuck forging documents, setting up fake Twitter accounts, and fishing for journalists to take the bait. This was one step too far off his idea of what a legal counsel was supposed to be doing. And to be exposed by an anonymous account going by the name of Trolly McTrollface!
 
-(Source: [Crystal Lang - Type System](https://crystal-lang.org/#type-system))
+Something broke inside him that night. The light went out.
 
-> All types are non-nilable in Crystal, and nilable variables are represented as a union between the type and nil. 
-> As a consequence, the compiler will automatically check for null references in compile time,
-> helping prevent the dreadful billion-dollar mistake.
+Suddenly, a sunbeam broke through the mist, and hit Stuart's face. Even with his eyes closed, he could feel the warmth on his face, and let himself bask in this uplifting feeling. A wave of rage and inspiration suddenly crashed up on him. His hands started shaking, as a supernatural force was taking control of his thoughts and movements.
 
-``` crystal
-if rand(2) > 0
-  my_string = "hello world"
-end
+Stuart rushed to his laptop, and started typing. He typed like never before, like he never could. For a moment in time, Stu was transported in a parallel universe, one where he was an actual big boy lawyer, working for a legitimate business, where he could say and write words that had real meanings. A world where his own existence had a meaning
 
-puts my_string.upcase
-```
+Established and recognized procedures.
 
-> Running the previous file:
+In accordance with the International Auditing and Assurance Standards Board (IAASB).
 
-```
-$ crystal hello_world.cr
-Error in hello_world.cr:5: undefined method 'upcase' for Nil (compile-time type is (String | Nil))
+The vast majority of the commercial paper we hold is in A-2 and above rated issuers.
 
-puts my_string.upcase
-               ^~~~~~
-```
+The commercial paper we hold is purchased through recognized issuance programmes.
 
-(Source: [Crystal Lang - Null Reference Checks](https://crystal-lang.org/#null-reference-checks))
+The lion's share of our bond portfolio is investment grade as rated by S&P, Moody's, or Fitch.
 
+Stuart typed, and typed, and typed. For the first time in years, he felt alive. He was proud of himself, albeit in an imaginary way.
 
+When he was done, the sun was high in the sky, and his phone showed fifty seven missed calls. It was like a hole in the continuum of time had engulfed him, chewed him, and spat him out. He was shaking, drenched in sweat, heart racing, his vision blurry.
 
-## Python
+He tried to read what he had written.
 
-_Learning from Type Checkers / Signatures / Annotations in Python_
+It was beautiful. A vision of a world that wasn't bullshit, scams, and shame. A world that would never exist anywhere else, but on those two pages of his own creation.
 
-New in Python version 3.5.
+Stu needed to put it out, put in somewhere others could read it. He couldn't post it on his own Twitter account. He couldn’t even admit or deny that it was real or fake. Plausible deniability, all that stuff.
 
-- [typing — Support for type hints](https://docs.python.org/3/library/typing.html)
+He created a new account on Medium, and copy-pasted it there, in all its glory. Then he dropped a link to Paolo.
 
-> The typing module supports type hints as specified by PEP 484 and PEP 526.
-> The most fundamental support consists of the types `Any`, `Union`, `Tuple`, `Callable`, `TypeVar`, and `Generic`. 
-> For full specification please see PEP 484. For a simplified introduction to type hints see PEP 483.
+Smoke and mirrors, bitch.
 
-More type checkers / signatures / annotations:
 
-- [mypy - Optional Static Typing for Python](http://mypy-lang.org)
-- [Pyre is a performant type checker for python :octocat:](https://github.com/facebook/pyre-check) by Facebook
-- [Pyright static type checker for python :octocat:](https://github.com/Microsoft/pyright) by Microsoft
-- [Pytype static type analyzer for python :octocat:](https://github.com/google/pytype) by Google
 
+ §§§
 
 
-## More Articles
+Do you prefer non-fiction?
+For background reading try
+"$USDT's Endgame and Life After Tether"
+by Trolly McTrollface, February 15, 2021
 
-- [What To Know Before Debating Type Systems](https://blog.steveklabnik.com/posts/2010-07-17-what-to-know-before-debating-type-systems) by Chris Smith, 2010
+> Tether's days are counted - whether by natural implosion,
+> or as a result of regulatory action,
+> the stablecoin funding a wide array of offshore crypto activity will
+> go the way of the dodo.
+>
+> [...]
+> $USDT lifecycle
+>
+> Tether's stablecoin $USDT is mainly used as a tool for offshore funding.
+> The proceeds of each $USDT print are sent mostly to offshore exchanges.
+>
+> $USDTs are mostly used as collateral for margin trading,
+> and for stacking (or "yield farming").
+> Yield farming is far less reliant on $USDT, but it's still advertised
+> as one of the ways to get eye-watering returns without price risk.
+> With advertised "expected returns" ranging anywhere from 10% to 50%,
+> it happens almost exclusively on unregulated platforms,
+> and the source of returns is... unclear to say the very least.
+> In the real world, anything beyond a 5% ARR reeks of horrible
+> counterparty risk and probable default. In the land of decentralized
+> finance, where intermediaries don't have to perform credit checks
+> or comply with regulations, and where the value of your collateral
+> goes up everyday, everything is supposedly possible (until it isn’t).
+>
+> [...]
+
+[Full article »](http://www.tr0lly.com/bitcoin/usdts-endgame-and-life-after-tether/)
+
+
 
 
 ## Meta
@@ -170,6 +219,3 @@ More type checkers / signatures / annotations:
 
 The awesome list is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
 
-**Questions? Comments?**
-
-Send them along to the ruby-talk mailing list. Thanks!
