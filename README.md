@@ -196,7 +196,7 @@ Yes. I want our investors to know that I love them, that I feel all their suppor
  https://twitter.com/Tr0llyTr0llFace/status/1396729914615910406
 -->
 
-This is the satirical post that Trolly McTrollface wrote on his blog.
+Note: This is the satirical post that Trolly McTrollface wrote on his blog.
 Feel free to put a copy up.
 Here are others: [[David Gerard](https://davidgerard.co.uk/blockchain/2021/05/24/rehost-tr0lly-a-day-in-the-life-of-stuart-hoegner-general-counsel-for-tether/); [Amy Castor](https://amycastor.com/2021/05/24/rehost-a-day-in-the-life-of-stuart-hoegner-general-counsel-for-tether/); [write.as](https://write.as/mq17sa8ebz9bx.md)]
 
