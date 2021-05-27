@@ -175,8 +175,66 @@ Yes. I want our investors to know that I love them, that I feel all their suppor
   -->
 
 
+## Tetherino is Setting a New Standard for Transparency - And Responding to Criticism That is Backed by Real Cash
 
-## What If?  A day in the life of Stuart Hoegner, General Counsel for Tether
+by Stuartino Hoegnerino, the Chief Legal Counsel of Tetherino
+
+Crypto insiders claim to have new technologies, ideas, or visions that will change the world. 
+They hope people pretend to believe them in the hope that someone else will buy their shitcoins 
+for more than they have paid for them. So they entertain a Potemkin façade of debate and what they call 
+"healthy scepticism", as long as it doesn't threaten their fragile ego and don't trigger 
+their small dick syndrome.
+
+As a member of this community, Tetherino issues a token. 
+Like all other tokens and coins in the crypto ecosystem, tetherinos peg their value 
+to the hopes and dreams of their bagholders, who pray 24/7 that the founders 
+who own 90% of the supply with a basis cost of zero won't rug pull them 
+before they're able to dump their tokens or coins on even greater fools than themselves.
+
+**Our lack of attestation proves that we're not backed**
+
+Despite our best efforts, some FUDsters have tried to spread rumours that me might be backed 
+by real commercial paper of bonds that are investment grade and not completely worthless 
+accounting entries created out of thin air when we issue tetherinos to our good friends and accomplices. 
+I cannot stress it enough, this is a lie. We don't follow any established accounting practices 
+but the ones me make up on the go. The commercial paper and bonds in our portfolio are completely made up. 
+We have a little bit of cash, sure, but that's just because we got lucky at the roulette table 
+last night and forgot to wire it to our personal account in Canada.
+
+**Our settlement with the New York Attorney General's (NYAG) office should be seen as a measure of our desire to put the matter behind us**
+
+If you think the title above makes absolutely no sense, 
+congratulations, you can read. FYI, we have provided exactly one page of documents to the AG, 
+to which she answered, "wow, that's exactly what I needed, thanks!", and we were done. 
+It took us 15 minutes to settle the matter. We agreed we would publish a pie chart 
+where we show that we own zero assets and that our tokens are not backed, 
+and that's it. We swore we'll never do business in NY, and we won't, 
+because we have no clue how to do business in NY.
+
+**Our reserves breakdown offers complete transparency into Tetherino's reserves**
+
+We're not backed. This is shown by our reserves breakdown that's just a blank page with nothing on it. 
+You can buy our coins on the sole assumption that you're early and you're getting in on the ground floor 
+of a potentially successful decentralised pyramid scheme where our memeing and relentless 
+shitposting will manage to create a base of suckers who will buy the early adopters' bags for 1000x the price.
+
+**Words and actions and bullshit**
+
+This part is about inspiring you to buy more tetherinos with real hard cash.
+We'd like you to imagine that by doing so, you're challenging the status quo and making bankers 
+and other people who you envy fear for their lives. 
+The more tetherinos you buy, the more you'll stick it to everyone who are successful and happy and fulfilled. 
+If you buy enough tetherinos, that hot chick from flat 103 in your building will break up 
+with her surfer boyfriend because his dick will fall off. 
+Then if you keep buy more tetherinos she will secretly fantasise about you in secret, 
+without ever revealing it. BUY TETHERINOS.
+
+<!-- source:
+https://stuartinohoegnerino.medium.com/tetherino-is-setting-a-new-standard-for-transparency-and-responding-to-criticism-that-is-backed-9971812cfc23
+-->
+
+
+## What If?  A day in the life of Stuart(ino) Hoegner(ino), General Counsel for Tether(ino)
 
 >  It's amazing the time and resources Tether spends on hunting down and harassing critics.
 >  [...]
