@@ -30,7 +30,7 @@
 > Austrian Maximalist comments:
 >
 >> Bitcoin is not a ponzi. It is a monetary network, first of its kind.
->> Currently valued at thousand billion dollars. What am I missing?
+>> Currently valued at a thousand billion dollars. What am I missing?
 >
 > §
 >
