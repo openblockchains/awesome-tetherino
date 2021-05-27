@@ -1,6 +1,28 @@
 # Awesome Tetherino - 60 000+ Million $USDT Crypto "Stable" Coin Printed Out of Thin Air and Offically Backed by Commercial Paper (2-Ply Rated Soft - Yes, Trust Us, Don't Verify) - Inside the Tether Ponzi Scheme - A Bubble for the History Books and Fraud on the Scale of Madoff
 
 
+> Tether has surpassed a $60 Billion market cap! In May 2020, Tether tokens' market cap was $8 Billion,
+> now a year on we've seen an increase of 581% and demand for Tether token use higher than ever for both trading and retail adoption!
+
+![](i/tether-60bn.png)
+
+> "Sometimes we wonder whether we are dreaming because the growth has been incredible". What's next? 
+> Get to know more about Tether's transparency, ecosystem initiatives, and future plans through the words of Paolo Ardoino and Stuart Hoegner.
+>
+> If you look at the history of Tethers growth you'll see that it took a bit of time
+> for cryptocurrency exchanges to understand why it was important to have Tether $USDT replace $USD in the crypto markets.
+> Tether $USDT is a reliable and quick liquid utility
+> [- a money printer & lender of last resort. Cryptocurrency exchanges can cash-out bagHODLers anytime in...  $USDT!
+> Tether's market cap is growing fast, with a monthly increase of $10 Billion. Will we reach $100 Billion before 2022? 🚀🚀🚀]
+> 
+> "Tethers are 100 percent backed, full-stop," said Stuart.
+>
+> -- Official Tether Week Podcast with Paolo & Stuart  
+
+
+§§§
+
+
 > We have not entered "Post Tether" yet. Tether is still furiously printing
 > digital ($USDT) bucks. Who believes Bitcoin's price is organic?
 > It's not - it's a Ponzi, and Tether is its Little Helper.
