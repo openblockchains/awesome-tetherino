@@ -199,7 +199,7 @@ Yes. I want our investors to know that I love them, that I feel all their suppor
 
 ## Tetherino is Setting a New Standard for Transparency - And Responding to Criticism That is Backed by Real Cash
 
-by Stuartino Hoegnerino, the Chief Legal Counsel of Tetherino
+by Stuartino Hoegnerino, the General Counsel of Tetherino
 
 Crypto insiders claim to have new technologies, ideas, or visions that will change the world. 
 They hope people pretend to believe them in the hope that someone else will buy their shitcoins 
@@ -282,7 +282,7 @@ Here are others: [[David Gerard](https://davidgerard.co.uk/blockchain/2021/05/24
 
 May 18, 2021
 
-In light of an anonymous Medium post titled "Tether is Setting a New Standard for Transparency - And Responding to Criticism That is Untethered From Facts", written by someone posturing as Stuart Hoegner, the GC for Tether, in a something that looks like pointless attempt to make Tether look like a legitimate business, the truth needed to be told. So here it is, in all its unvarnished glory. A tale of how it all happened.
+In light of an anonymous Medium post titled "Tether is Setting a New Standard for Transparency - And Responding to Criticism That is Untethered From Facts", written by someone posturing as Stuart Hoegner, the General Counsel for Tether, in a something that looks like pointless attempt to make Tether look like a legitimate business, the truth needed to be told. So here it is, in all its unvarnished glory. A tale of how it all happened.
 
 The morning sun was gently piercing through the mist glowing around the harbour. Suart Hoegner was standing by the window, his empty stare aimlessly fixated on the horizon.
 
