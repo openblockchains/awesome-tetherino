@@ -385,6 +385,198 @@ by Trolly McTrollface, February 15, 2021
 ["$USDT's Endgame and Life After Tether" - read the full article »](http://www.tr0lly.com/bitcoin/usdts-endgame-and-life-after-tether/)
 
 
+## What's News? Tetherino Breaking News
+
+### Crypto World in Shock as Tetherino Processes First Redemption Request
+
+May 27, 2021
+
+**Undeniable proof of token redemption shocks the cryptosphere**
+
+Tetherino sent shockwaves throughout the cryptosphere again, 
+as acclaimed cryptocurrency critic Trolly McTrollface tweeted 
+out the story in pictures of his successful tetherino redemption.
+Mr McTrollface had originally questioned the trustworthiness of Tetherino's claims 
+that its tokens were really backed, and warned he would try to redeem his bags 
+should Tetherino offer the possibility of doing so.
+
+![](i/tetherino-redemption-closeup.png)
+​
+"Jesus Fucking Christ! That's a lot of commercial toilet paper", 
+tweeted Mr McTrollface. "You've got appreciate the effort, really", 
+he added, with a closeup photo of a Tetherino-certified commercial toilet paper roll.
+
+**Other tokens' business model in doubt**
+
+Reached out for comment, other issuers who claim that their tokens are backed couldn't come up 
+with any intelligible comment. Shocked as they were to see that a token was actually backed by real things, 
+they declined to elaborate on their intentions to readjust their business model, 
+or on their plans to get hacked, rug pull, or exit scam.
+
+The community had grown accustomed to tokens backed by promises and bullshit attestations, 
+so Tetherino's original claim to be backed by actual commercial toilet paper received 
+a "meh" rating from traders and investors. Its Independent Acountant's Attestation, 
+signed off by Madonzi & Associates, didn't do much to change perceptions, 
+as the market had grown accustomed to bullshit attestations randomly published by other tokens, 
+mostly stablecoins such as $USDT or $USDC.
+
+But now that Tetherino's reserves are perceived as real, 
+the future of these stablecoins suddenly becomes uncertain. 
+Will offshore crypto exchanges keep accepting these coins as collateral, 
+knowing that there's a much more trustworthy alternative? Or will the cartel break?
+
+**Exchange listings and collateral rules rumoured to be under review**
+
+Crook Zhao (or "CZ", as he likes to be called), the CEO of Byenonce, a major crypto exchange, 
+declined to comment on his plans for a change in collateral rules, 
+but we could distinctly hear him google "tetherino" during the few seconds that we had him on the phone.
+
+Brandon Footweak, another crypto exchange CEO, was reportedly seen kicking himself 
+in the nuts on Tetherino redemption news, certainly a result of recently accepting $USDTs 
+to be listed on his exchange. This ill-timed move seems to have put him on the wrong side of history 
+just as the crypto paradigm is shifting towards more transparency and actual accountability.
+
+**Market cheers Tetherino**
+
+Bitcoin jumped on the redemption bombshell news, stopping its slide downwards. 
+Cheers of relief were heard in trading rooms and parents' basements around the world, 
+as a crypto bagholder was reported being seen throwing confetti in the air after almost getting rekt 
+on his You-Only-Live-Once (YOLO) long on BitMex, just to become lambo-rich minutes 
+later thanks to the Tetherino redemption news.
+
+"This is certainly a game changer", said Michelangelo Saylorino, 
+an early backer of the revolutionary token. 
+"Humanity is just starting to realise what a game-changer this is", he added, 
+taking a short break from issuing yet another convertible bond to go balls deep in TTR.
+
+
+<!--
+  https://old.reddit.com/r/Theterino/comments/nm2omj/crypto_world_in_shock_as_tetherino_processes/
+  -->
+
+
+### Tetherino Announces Framework For Liquidity Provider Network
+
+May 27, 2021
+
+Paolino Ardoino, Tetherino's CTO, unveiled in a Twitter thread the token's playbook 
+for a global on-commercial toilet paper liquidity network. 
+Dubbed "On-Demand Commercial Toilet Paper Liquidity Provider (ODCTPLP) Partner Network", 
+this ambitious initiative will aim at setting up partnerships with local actors 
+who will maintain a stock of commercial toilet paper and tetherinos, 
+acting as small-scale exchanges for instantaneous conversions.
+
+​> We've been working hard all yesterday afternoon to set up our framework 
+> for On-Demand Commercial Toilet Paper Liquidity Providers (ODCTPLP).
+> The goal is to establish a worldwide network of ODCTPLP partners 
+> where you can exchange tetherinos for commercial toilet paper instantly.
+>
+> -- [Paolino Ardoino](https://twitter.com/ArdoinoPaolino/status/1398009042648416261)
+
+This announcement is in line with the Tetherino white paper's promise of a 
+"Decentralized worldwide commercial toilet paper exchange", 
+but with the first details of a practical implementation. 
+In the coming days, Tetherino will add on its website, tetherino.io, 
+a feature allowing anyone to apply for a Liquidity Provider Partnership (LPP).
+
+**Everyone can apply to become a partner**
+
+Selected applicants will receive a starting kit of 10 rolls of commercial toilet paper 
+and a wallet with 5B tetherinos, 
+to allow them to start acting as market makers for small conversions. 
+It would seem the amount of tetherinos could change in the future along
+with the Tetherino Reserve Requirement Ratio, 
+which stands for the official redemption rate of tetherinos against commercial toilet paper.
+
+Reached out for comment, Mr Ardoino was adamant that anyone was eligible, 
+as long as they made a promise of act in good faith and for the benefit of the Tetherino community at large. 
+"We hope each liquidity provider will become a successful entrepreneur", explained Mr Ardoino, 
+"by earning a commission on the transactions they perform, 
+which will help them grow their business and serve more customers".
+
+**Not trying to replicate Ripple's scam**
+
+When asked if this on-demand liquidity initiative had been inspired by Ripple, 
+Tetherino's CTO answered, "no, because we're not bullshitting anyone in the sole hope of 
+selling more worthless shitcoins to idiots. We're actually setting up a real network, FULL STOP". 
+Commenting on the early pilot that his team has been running for the last few days, 
+Mr Ardoino said that the results were "very potentially promising".
+
+**Hints of a disrupting containers-not-parcels technology**
+
+In previous interviews, Paolino Ardoino had floated the idea that this on-demand liquidity provider network
+would enable instant commercial toilet paper transfers. 
+"Of course, those wouldn't be actual transfers, 
+more like the ability to source commercial toilet paper anywhere where a liquidity provider has some in stock", 
+he conceded. "However, to counter-balance fluctuations in local demand, 
+we're also working on setting up a network cargo shipping for commercial toilet paper, 
+using our proprietary containers-not-parcels technology developed 
+in partnership with our early backer Nicotino Carterino".
+
+
+<!--
+  https://old.reddit.com/r/Tetherino/comments/nmhzy8/tetherino_announces_framework_for_liquidity/
+  -->
+
+
+
+### Tetherino Announces It's FinCEN Compliant, Follows Money-Laundering & Know-Your-Customer (ML & KYC) Rules
+
+May 28, 2021
+
+In a three-tweet thread, Stuartino Hoegnerino, Tetherino's General Counsel, 
+explained that the token had set up an operational framework in compliance with the 
+US' Financial Crimes Enforcement Network (FinCEN) guidelines for Money Services Business (MSB). 
+This operational framework reportedly consists of a guy named Steve, who is Tetherino's only client, 
+who processes all their transactions, thus shielding the team from all and any liability.
+
+> Taking a break from filling out Tetherino's registration with the FinCEN form.
+> Tetherino complies with all ML&KYC requirements. 
+> We know exactly who all our clients are, and what they're doing with the tetherinos we send them, 
+> thanks to our cutting-edge operational framework.
+>
+> -- [Stuartino Hoegnerino](https://twitter.com/StuartinoH/status/1398162541495435264)
+
+When reached out to comment, Steve confirmed that he's banking with Tetherino. 
+"I got introduced to them a few days ago by a longtime friend of mine, Samino Bankamino-Friedino, 
+who is an expert in these kind of setups. Samino and Hoegnerino helped me setup my account, 
+and send me people who want to buy or sell me tetherinos. 
+I take a small cut in the process, it's really neat."
+
+**Tetherino happy with Steve's performance**
+
+When asked if he wasn't afraid to be a frontman for potentially illegal money laundering operations, 
+Steve said that he hadn't really thought about it, and that he trusted his longtime friend 
+not to screw him over this.
+
+"Steve is a wonderful client", told us Stuartino Hoegnerino. 
+"I want to be quoted on the record that he's absolutely free to accept or reject any and all potential clients 
+that we refer to him. If he's uncomfortable dealing with anyone, 
+we can establish a new relationship with Bob, who we keep as an option to become our second client. 
+Tether, for example, has at least three clients just like Steve or Bob, 
+to be able to service their ever-growing money laundering business without any liability."
+
+**Innovation never sleeps**
+
+"This is the kind of fintech innovation that will change the world", said Paolino Ardoino, 
+Tetherino's CTO, as he joined the call. "The crypto community as a whole, 
+is really thankful to the FinCEN, the NYAG and the DoJ 
+for being such good sports and letting them do all this disruption. 
+Regulators must understand that you can't cook an omelette without breaking some eggs, 
+and that you can't revolutionise finance without doing some money laundering."
+
+**New products in the pipeline at Tetherino**
+
+When asked if money laundering was bad, Giancarlo Descamini, Tetherino's CFO, replied: 
+"Where some see problems, I see opportunity. While our critics waste their time accusing us of fraud, 
+we are working on our new product, the JAIL token, which will be redeemable 
+for our own brand of money laundering detergent".
+
+<!--
+  https://old.reddit.com/r/Tetherino/comments/nmry2u/tetherino_announces_its_fincen_compliant_follows/
+  -->
+
+
 
 
 ## Meta
