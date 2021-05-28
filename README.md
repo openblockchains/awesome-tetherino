@@ -401,10 +401,11 @@ that its tokens were really backed, and warned he would try to redeem his bags
 should Tetherino offer the possibility of doing so.
 
 ![](i/tetherino-redemption-closeup.png)
-​
+
 "Jesus Fucking Christ! That's a lot of commercial toilet paper", 
 tweeted Mr McTrollface. "You've got appreciate the effort, really", 
 he added, with a closeup photo of a Tetherino-certified commercial toilet paper roll.
+
 
 **Other tokens' business model in doubt**
 
@@ -466,7 +467,8 @@ this ambitious initiative will aim at setting up partnerships with local actors
 who will maintain a stock of commercial toilet paper and tetherinos, 
 acting as small-scale exchanges for instantaneous conversions.
 
-​> We've been working hard all yesterday afternoon to set up our framework 
+
+> We've been working hard all yesterday afternoon to set up our framework 
 > for On-Demand Commercial Toilet Paper Liquidity Providers (ODCTPLP).
 > The goal is to establish a worldwide network of ODCTPLP partners 
 > where you can exchange tetherinos for commercial toilet paper instantly.
