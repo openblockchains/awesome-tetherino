@@ -579,6 +579,50 @@ for our own brand of money laundering detergent".
   -->
 
 
+### Job Offer: Tetherino's Chief Market Manipulation Officer
+
+May 31, 2021
+
+Tetherino is looking for a talented and hungry candidate to fill their executive ranks. 
+The perfect candidate is experienced in trading and market making, and highly motivated to bring Tetherino to new highs, 
+and our bagholder balances to new lows. More information below.
+
+**Job description**
+
+Your job as Tetherino's Chief Market Manipulation Officer will be to establish our proprietary trading strategy 
+and to oversee our market-making operations. You'll need to work in close cooperation with our Shill Department 
+and our Legal Department.
+
+The ideal candidate should have at least 3 years of provable experience in any of the following: 
+manipulating markets, running pump & dumps, overseeing wash trading bots.
+
+Financial market trading bans issued by a major regulating authority will be accepted as valid references.
+
+**Responsibilities**
+
+- run our washtrading bot
+- incite our community members to buy the dip just before the rug pull
+- post moon rocket toilet paper tweets
+- manage our liquidity pool
+- remind everyone how much $TTR is up since the last moment they panic sold at the bottom to our whalebot.
+
+**Compensation**
+
+- competitive, with an attractive bonus package
+- salary paid monthly in commercial toilet paper rolls.
+
+**Benefits**
+
+- work from anywhere you want
+- good health as long as you do what the boss says
+- extra-soft, at least A-2 rated toilet paper in the WC
+- in case you want to come to the office, we are doge friendly (but no Sabaka Inus)
+- you can use our washtrading bot and our liquidity to pump your own shitcoin or shittoken and cash out at the top, Charlie Lee style.
+
+<!--
+   https://old.reddit.com/r/Tetherino/comments/nogehq/job_offer_chief_market_manipulation_officer/
+  -->
+
 
 
 ## Meta
