@@ -1,4 +1,4 @@
-# Awesome Tetherino - 60 000+ Million $USDT Crypto "Stable" Coin Printed Out of Thin Air and Offically Backed by Commercial Paper (2-Ply Rated Soft - Yes, Trust Us, Don't Verify) - Inside the Tether Ponzi Scheme - A Bubble for the History Books and Fraud on the Scale of Madoff
+# Awesome Tetherino - 60 000+ Million $USDT Crypto "Stable" Coin Printed Out of Thin Air and Officially Backed by Commercial Paper (2-Ply Rated Soft - Yes, Trust Us, Don't Verify) - Inside the Tether Ponzi Scheme - A Bubble for the History Books and Fraud on the Scale of Madoff
 
 
 > Tether has surpassed a $60 Billion market cap! In May 2020, Tether tokens' market cap was $8 Billion,
