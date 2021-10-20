@@ -76,7 +76,40 @@
 >
 >  -- Trolly McTrollface, Bitcoin Greater Fool Court Jester
 
+§
 
+> Hindenburg Research Announces $1,000,000 Bounty For Details On Tether's Backing
+>
+> Tether is a key underpinning of the multi-trillion-dollar crypto market. 
+> Yet despite its repeated claims of transparency, its disclosures around its holdings have been opaque. 
+> The company claims to hold a significant portion of its reserves in commercial paper yet has disclosed virtually nothing about its counterparties.
+>
+> Hindenburg has doubts about the legitimacy of Tether’s backing due to the company's sparse disclosures.
+>
+> Tether has been referred to as a "stablecoin" in the crypto space due to the company's historical claims
+> that it was equivalent to $1 USD and was backed 1-to-1 by "traditional currency" reserves.
+>
+> Since those claims that garnered it "stablecoin" status were made years ago, Tether subsequently 
+> revealed that its coin was backed only by a small percentage of traditional currency, 
+> and that much of its backing consists of holdings in commercial paper issued by unnamed counterparties.
+>
+> Despite multiple regulatory sanctions over its alleged lack of truthful disclosure about its reserves, 
+> and despite Tether now having a $70 billion market cap, Tether still refuses to provide transparency to the public on its holdings.
+>
+> Recent reporting has indicated that Tether's claims would make it one of the largest holders 
+> of commercial paper in the world. But major trading desks stated to the press 
+> that they had never worked with them or seen them in the market.
+>
+> Securities and Exchange Commission Chair Gary Gensler said in September of this year that stablecoins 
+> were acting as "poker chips" at the crypto Wild West "casino gaming tables".
+>
+> Gensler said he feared that: "the SEC will keep bringing these enforcement cases but there's gonna be a problem, 
+> on lending platforms, on trading platforms, and, frankly, when that happens... a lot of people are going to get hurt."
+>
+> Hindenburg Research seeks to help advance the public's knowledge of what it believes 
+> is a growing threat to investors by encouraging disclosure related to a crucial part of the crypto markets, which are nearing "systemic" size.
+>
+> -- [Hindenburg Research](https://hindenburgresearch.com/tether/), October 2021
 
 
 
