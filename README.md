@@ -109,7 +109,7 @@
 > Hindenburg Research seeks to help advance the public's knowledge of what it believes 
 > is a growing threat to investors by encouraging disclosure related to a crucial part of the crypto markets, which are nearing "systemic" size.
 >
-> -- [Hindenburg Research](https://hindenburgresearch.com/tether/), October 2021
+> -- [Hindenburg Research Announces $1,000,000 Bounty For Details On Tether's Backing](https://hindenburgresearch.com/tether/), October 2021
 
 
 
